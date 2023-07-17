@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "kristina kobrock research profile"
+title: "Research profile"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
