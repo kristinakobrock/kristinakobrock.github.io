@@ -4,7 +4,7 @@ collection: teaching
 type: "B.Sc./M.Sc. Course"
 permalink: /teaching/2021-winter-teaching
 venue: "Osnabrück University, Institute of Cognitive Science"
-date: 2021-10
+date: 2021-10-01
 location: "Osnabrück, Germany"
 ---
 
