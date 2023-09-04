@@ -15,3 +15,4 @@ This project makes use of iterative, agent-based computational modeling to answe
 
 My PhD is supervised by [Nicole Gotzner](https://sites.google.com/view/nicolegotzner/home) (Psycho-/Neurolinguistics) and [Elia Bruni](https://eliabruni.github.io/) (Computational Linguistics). I'm very happy to be part of the Research Training Group ["Computational Cognition"](https://www.comco.uni-osnabrueck.de/). Maybe, I'll see you this year at ESSLLI, XPRAG or [ComCo](https://comco23.github.io/)?
 
+<br/><img src='/images/ComCo_Titel_webpage_Gruppenfoto_FINAL.jpg'>"
