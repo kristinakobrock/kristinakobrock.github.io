@@ -60,6 +60,11 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-[//]: #Service and leadership
-[//]: #======
-[//]: #* Currently signed in to 43 different slack teams
+Mentoring and Supervision
+======
+* Charlotte Uhlemann (starting as a PhD student with Nicole Gotzner in April 2024): M.Sc. thesis, August 2023
+  
+Service
+======
+* Co-organization of the Computational Cognition conference 2023 (short [ComCo](https://comco23.github.io/)).
+* Co-organization of the Colloquium of the Institute of Cognitive Science (IKW Colloquium)
