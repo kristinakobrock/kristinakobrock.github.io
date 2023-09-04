@@ -24,7 +24,7 @@ Work experience
 
 * April - September 2021: Student Research Assistant
   * Cognitive Modeling Group
-  * Supervisor: Michael Franke
+  * Supervisor: [Michael Franke](https://michael-franke.github.io/heimseite/)
   * Osnabrück University
   
 * October 2019 - March 2022: Tutor for Various Courses
