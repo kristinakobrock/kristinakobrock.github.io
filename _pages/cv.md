@@ -32,15 +32,6 @@ Work experience
   * "Foundations of Logic and Argumentation Theory,"
   * "Artificial Intelligence and Logic Programming,"
   * "Computer Science I"
-  
-[//]: #Skills
-[//]: #======
-[//]: #* Skill 1
-[//]: #* Skill 2
- [//]: # * Sub-skill 2.1
-[//]: #  * Sub-skill 2.2
-[//]: #  * Sub-skill 2.3
-[//]: #* Skill 3
 
 Publications
 ======
@@ -66,5 +57,5 @@ Mentoring and Supervision
   
 Service
 ======
-* Co-organization of the Computational Cognition conference 2023 (short [ComCo](https://comco23.github.io/)).
+* Co-organization of the Computational Cognition conference 2023 (short [ComCo](https://comco23.github.io/))
 * Co-organization of the Colloquium of the Institute of Cognitive Science (IKW Colloquium)
