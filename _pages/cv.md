@@ -54,8 +54,13 @@ Teaching
 Mentoring and Supervision
 ======
 * Charlotte Uhlemann (starting as a PhD student with Nicole Gotzner in April 2024): M.Sc. thesis, August 2023
+* Vanessa Verdugo: M.Sc. thesis, ongoing
+* Anna Briotto: B.Sc. thesis, ongoing
+* Eosandra Grund: B.Sc. thesis, ongoing
+* Ilva Hovemann: B.Sc. thesis, ongoing
   
 Service
 ======
 * Co-organization of the Computational Cognition conference 2023 (short [ComCo](https://comco23.github.io/))
 * Co-organization of the Colloquium of the Institute of Cognitive Science (IKW Colloquium)
+* Review for Linguistics Vanguard
