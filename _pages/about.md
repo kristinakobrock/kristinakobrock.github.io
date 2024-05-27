@@ -18,6 +18,7 @@ My PhD is supervised by [Nicole Gotzner](https://sites.google.com/view/nicolegot
 <br/><img src='/images/ComCo_Titel_webpage_Gruppenfoto_FINAL.jpg'>
 
 ## News
+* 22.05.24 - I presented my poster at LREC-COLING 2024. Here’s the link to the full-paper publication: [Context Shapes Emergent Communication about Concepts at Different Levels of Abstraction](https://aclanthology.org/2024.lrec-main.339.pdf).
 * 19.04.24 - I gave a talk “Efficient context-adapted communication emerges in a multi-agent model” at the [CORE Project workshop](https://www.upf.edu/web/glif/2024-core-workshop) at upf in Barcelona!
 * 05.04.24 - [Paper](https://osf.io/cv74u) accepted at COGSCI 2024 as an oral presentation! Together with Charlotte Uhlemann and Nicole Gotzner I look at the elicitation of superordinate referring expressions in a novel concept-level reference game with human participants.
 * 20.02.24 - Paper accepted at LREC-COLING 2024 together with Xenia Ohmer, Elia Bruni and Nicole Gotzner! We look at how the availability of context shapes an emerging language between artificial agents.
