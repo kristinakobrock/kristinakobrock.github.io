@@ -18,8 +18,8 @@ My PhD is supervised by [Nicole Gotzner](https://sites.google.com/view/nicolegot
 <br/><img src='/images/ComCo_Titel_webpage_Gruppenfoto_FINAL.jpg'>
 
 ## News
+* 13.08.24 - My colleague Charlotte Uhlemann and I presented our work at Michael C. Frank's Language & Cognition group's lab meeting at Stanford University. Thanks for the feedback!
+* 07.08.24 - [The second Osnabrück-Irvine workshop on the role of loopholes in polite communication](https://sites.uci.edu/loopholes2/) was great fun! There was a very interesting program of talks. Mine was on "Modeling pragmatics in a multi-agent framework".
+* 26.07.24 - I gave an oral presentation at COGSCI 2024. Read the publication, in which we introduce a concept-level reference game, [here](https://escholarship.org/uc/item/31n5d3p6)!
 * 21.06.24 - Abstract accepted at XPRAG Italy - see you in Venice in September! :)
 * 22.05.24 - I presented my poster at LREC-COLING 2024. Here’s the link to the full-paper publication: [Context Shapes Emergent Communication about Concepts at Different Levels of Abstraction](https://aclanthology.org/2024.lrec-main.339.pdf).
-* 19.04.24 - I gave a talk “Efficient context-adapted communication emerges in a multi-agent model” at the [CORE Project workshop](https://www.upf.edu/web/glif/2024-core-workshop) at upf in Barcelona!
-* 05.04.24 - [Paper](https://osf.io/cv74u) accepted at COGSCI 2024 as an oral presentation! Together with Charlotte Uhlemann and Nicole Gotzner I look at the elicitation of superordinate referring expressions in a novel concept-level reference game with human participants.
-* 20.02.24 - Paper accepted at LREC-COLING 2024 together with Xenia Ohmer, Elia Bruni and Nicole Gotzner! We look at how the availability of context shapes an emerging language between artificial agents.
