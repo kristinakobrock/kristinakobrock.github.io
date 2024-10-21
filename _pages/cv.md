@@ -56,8 +56,8 @@ Mentoring and Supervision
 * Charlotte Uhlemann (now PhD student with Nicole Gotzner): M.Sc. thesis, August 2023
 * Vanessa Verdugo: M.Sc. thesis, June 2024
 * Anna Briotto: B.Sc. thesis, June 2024
+* Ilva Hovemann: B.Sc. thesis, September 2024
 * Eosandra Grund: B.Sc. thesis, ongoing
-* Ilva Hovemann: B.Sc. thesis, ongoing
   
 Service
 ======
