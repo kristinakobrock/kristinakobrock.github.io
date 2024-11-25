@@ -58,6 +58,7 @@ Mentoring and Supervision
 * Anna Briotto: B.Sc. thesis, June 2024
 * Ilva Hovemann: B.Sc. thesis, September 2024
 * Eosandra Grund: B.Sc. thesis, ongoing
+* Vanessa Obi: B.Sc. thesis, ongoing
   
 Service
 ======

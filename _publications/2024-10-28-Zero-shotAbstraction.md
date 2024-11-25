@@ -1,0 +1,15 @@
+---
+title: "Agents can generalize to novel levels of abstraction with the help of language"
+collection: publications
+permalink: /publication/2024-10-28-Zero-shotAbstraction
+excerpt: 'We study abstraction in an emergent communication paradigm. In emergent communication, two artificial neural network agents develop a language while solving a communicative task. In this study, the agents play a concept-level reference game. This means that the speaker agent has to describe a concept to a listener agent, who has to pick the correct target objects that satisfy the concept. Concepts consist of multiple objects and can be either more specific, i.e. the target objects share many attributes, or more generic, i.e. the target objects share fewer attributes. We test two directions of zero-shot generalization to novel levels of abstraction: When generalizing from more generic to very specific concepts, agents utilize a compositional strategy. When generalizing from more specific to very generic concepts, agents utilize a more flexible linguistic strategy that involves reusing many messages from training. Our results provide evidence that neural network agents can learn robust concepts based on which they can generalize with the help of language. This research can help improve artificial systems and provide new hypotheses on human abstraction.'
+date: 2024-10-28
+venue: 'submitted to ARR'
+paperurl: 'https://doi.org/10.31234/osf.io/km28h'
+citation: 'Kobrock, K., Ohmer, X., Bruni, E., &amp; Gotzner, N. (2024). “Agents can generalize to novel levels of abstraction with the help of language.” <i>submitted to ARR</i>. '
+---
+We study abstraction in an emergent communication paradigm. In emergent communication, two artificial neural network agents develop a language while solving a communicative task. In this study, the agents play a concept-level reference game. This means that the speaker agent has to describe a concept to a listener agent, who has to pick the correct target objects that satisfy the concept. Concepts consist of multiple objects and can be either more specific, i.e. the target objects share many attributes, or more generic, i.e. the target objects share fewer attributes. We test two directions of zero-shot generalization to novel levels of abstraction: When generalizing from more generic to very specific concepts, agents utilize a compositional strategy. When generalizing from more specific to very generic concepts, agents utilize a more flexible linguistic strategy that involves reusing many messages from training. Our results provide evidence that neural network agents can learn robust concepts based on which they can generalize with the help of language. This research can help improve artificial systems and provide new hypotheses on human abstraction.
+
+[Download paper here](https://doi.org/10.31234/osf.io/km28h)
+
+Recommended citation: Kobrock, K., Ohmer, X., Bruni, E., & Gotzner, N. (2024). “Agents can generalize to novel levels of abstraction with the help of language.” <i>submitted to ARR</i>. 
