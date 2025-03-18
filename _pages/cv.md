@@ -57,11 +57,14 @@ Mentoring and Supervision
 * Vanessa Verdugo: M.Sc. thesis, June 2024
 * Anna Briotto: B.Sc. thesis, June 2024
 * Ilva Hovemann: B.Sc. thesis, September 2024
-* Eosandra Grund: B.Sc. thesis, ongoing
+* Eosandra Grund: B.Sc. thesis, February 2025
 * Vanessa Obi: B.Sc. thesis, ongoing
+* Mariia Gudkova: B.Sc. thesis, ongoing
   
 Service
 ======
 * Co-organization of the Computational Cognition conference 2023 (short [ComCo](https://comco23.github.io/))
 * Co-organization of the Colloquium of the Institute of Cognitive Science (IKW Colloquium)
 * Review for Linguistics Vanguard
+* Review for Workshop: [Experiments on the Semantics/Pragmatics Interface (XPRAG FEST 2025)](https://sites.google.com/view/nicolegotzner/emmy-noether-project/workshop)
+* Review for [The 14th Workshop on Cognitive Modeling and Computational Linguistics (CMCL) 2025](https://cmclorg.github.io/) collocated with NAACL 2025
