@@ -18,8 +18,8 @@ My PhD is supervised by [Nicole Gotzner](https://sites.google.com/view/nicolegot
 <br/><img src='/images/ComCo_Titel_webpage_Gruppenfoto_FINAL.jpg'>
 
 ## News
+* 16.05.25 - Paper accepted at ACL 2025 Findings: We show how [agents can generalize to novel levels of abstraction with the help of language](https://osf.io/preprints/psyarxiv/km28h_v3)!
 * 20.11.24 - Paper accepted for publication at Frontiers in Psychology. In my master's thesis project "Feeling good, approaching the positive" we investigated the influence of mood on approach-avoidance behavior.
-* 28.10.24 - New preprint online: We show how [agents can generalize to novel levels of abstraction with the help of language](https://osf.io/preprints/psyarxiv/km28h)!
 * 01.10.24 - I presented my research on "linguistic strategies for abstraction" in Bologna invited by the ERC on Abstraction led by Marianna Bolognesi. It was great to visit and exchange ideas!
 * 27.09.24 - I presented a poster at XPrag Italy in Venice Lido and had many interesting discussions.
 * 05.09.24 - I gave a talk at DGKL in Osnabrück - it was great to meet so many colleagues from Cognitive Linguistics!
