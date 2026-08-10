@@ -9,15 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Experience
 ======
-* Ph.D in Cognitive Science, Osnabrück University, 2025 (expected)
-* M.Sc. in Cognitive Science, Osnabrück University, 2022
-* B.A. in Cultural Studies and Business Psychology, Leuphana University Lüneburg, 2018
+* October 2025 - now: Postdoctoral Researcher
+  * SPA lab: [Psycho- and Neurolinguistics group](https://www.uni-osnabrueck.de/fb8/en/ikw/forschen/forschungsgruppen/psycho-und-neurolinguistik/)
+  * Osnabrück University
+  
+  * April 2026 - July 2026: Visiting Postdoctoral Researcher
+   * [CRC on Lingusitic Creativity in Communication](https://www.uni-bielefeld.de/sfb/sfb1646/)
+   * Host: [Sina Zarrieß](https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=51642361&lang=en)
+   * Bielefeld University
 
-Work experience
-======
-* July 2022 - now: Research Associate (Ph.D student)
+* July 2022 - September 2025: Doctoral Researcher
   * Research Training Group: [Computational Cognition](https://www.comco.uni-osnabrueck.de/)
   * Supervisors: [Nicole Gotzner](https://sites.google.com/view/nicolegotzner/home) and [Elia Bruni](https://eliabruni.github.io/)
   * Osnabrück University
@@ -32,6 +35,12 @@ Work experience
   * "Foundations of Logic and Argumentation Theory,"
   * "Artificial Intelligence and Logic Programming,"
   * "Computer Science I"
+  
+Education
+======
+* Ph.D in Cognitive Science, Osnabrück University, 2026
+* M.Sc. in Cognitive Science, Osnabrück University, 2022
+* B.A. in Cultural Studies and Business Psychology, Leuphana University Lüneburg, 2018
 
 Publications
 ======
@@ -55,11 +64,13 @@ Mentoring and Supervision
 ======
 * Charlotte Uhlemann (now PhD student with Nicole Gotzner): M.Sc. thesis, August 2023
 * Vanessa Verdugo: M.Sc. thesis, June 2024
-* Anna Briotto: B.Sc. thesis, June 2024
+* Anna Briotto (now PhD student at University of Padua): B.Sc. thesis, June 2024
 * Ilva Hovemann: B.Sc. thesis, September 2024
 * Eosandra Grund: B.Sc. thesis, February 2025
-* Vanessa Obi: B.Sc. thesis, ongoing
-* Mariia Gudkova: B.Sc. thesis, ongoing
+* Vanessa Obi: B.Sc. thesis, June 2025
+* Mariia Gudkova: B.Sc. thesis, September 2025
+* Ilva Hovemann: M.Sc. thesis, ongoing
+* Esma Hodzic: B.Sc. thesis, ongoing
   
 Service
 ======
@@ -68,3 +79,6 @@ Service
 * Review for Linguistics Vanguard
 * Review for Workshop: [Experiments on the Semantics/Pragmatics Interface (XPRAG FEST 2025)](https://sites.google.com/view/nicolegotzner/emmy-noether-project/workshop)
 * Review for [The 14th Workshop on Cognitive Modeling and Computational Linguistics (CMCL) 2025](https://cmclorg.github.io/) collocated with NAACL 2025
+* Review for [Computational Psycholinguistics Meeting 2025](https://cpl2025.sites.uu.nl/)
+* Review for [19th International Conference on Natural Language Generation](https://2026.inlgmeeting.org/)
+* Review for [Computational Psycholinguistics Meeting 2026](https://cpl2026.sites.uu.nl/)
